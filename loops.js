@@ -61,7 +61,7 @@ do {
 
 function doWhileLoop (array) {
   do {
-    array.pop(array.length > 0 && incrementVariable()) 
+    array.pop(array.length > 0 && incrementVariable())
 } while (array > 0);
 
 return array
